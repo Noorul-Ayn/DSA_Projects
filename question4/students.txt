@@ -1,0 +1,15 @@
+Alice|Johnson|85.50
+Bob|Smith|72.00
+Carol|Williams|91.00
+David|Brown|60.00
+Eve|Johnson|78.50
+Frank|Miller|88.00
+Grace|Wilson|95.00
+Henry|Brown|55.00
+Iris|Taylor|82.00
+Jack|Anderson|74.00
+Karen|Smith|69.00
+Leo|Martinez|91.50
+Mia|Davis|77.00
+Noah|Wilson|83.00
+Olivia|Thompson|88.50
